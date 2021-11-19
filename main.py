@@ -3,16 +3,8 @@ import os
 
 if __name__ == "__main__":
     hrefs = [
-    #{"path":"2021昭昭病史采集", "url":"https://www.acfun.cn/v/ac27343761_1"},
-    #{"path":"2021昭昭考前串讲", "url":"https://www.acfun.cn/v/ac30985131"},
-    #{"path":"2021昭昭早读课", "url":"https://www.acfun.cn/v/ac30984820"},
-    #{"path":"2021昭昭真题解析", "url":"https://www.acfun.cn/v/ac30143658"},
-    #{"path":"2021技能直播课", "url":"https://www.acfun.cn/v/ac28876912"},
-    #{"path":"2021技能基本操作", "url":"https://www.acfun.cn/v/ac28537128"},
-    #{"path":"2021技能上机考试部分", "url":"https://www.acfun.cn/v/ac28537070"},
-    #{"path":"2021昭昭技能体格检查", "url":"https://www.acfun.cn/v/ac27686541"},
-    #{"path":"2021昭昭技能病例分析", "url":"https://www.acfun.cn/v/ac27588822"},
-    #{"path":"2021导学课", "url":"https://www.acfun.cn/v/ac20759934"}
+    #{"path":"XXX", "url":"https://www.acfun.cn/v/XXX"},
+    #{"path":"XXXXX", "url":"https://www.acfun.cn/v/XXXXX"},
     ]
 
     url_root = os.getcwd() + '\\download'
