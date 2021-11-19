@@ -4,6 +4,7 @@ AFun 视频下载工具
 
 用法以及问题
 1. 在main.py中添加要下载到本地的文件夹地址(path), 以及AFun站点的视频地址(url):
+
     hrefs = [
     #{"path":"XXX", "url":"https://www.acfun.cn/v/XXX"},
     #{"path":"XXXXX", "url":"https://www.acfun.cn/v/XXXXX"},
